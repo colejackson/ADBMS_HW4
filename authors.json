@@ -1,0 +1,137 @@
+[
+    {
+        "year_of_birth": 1832, 
+        "author_id": 0, 
+        "author_name": "Carroll, Lewis"
+    }, 
+    {
+        "year_of_birth": 1819, 
+        "author_id": 1, 
+        "author_name": "Melville, Herman"
+    }, 
+    {
+        "year_of_birth": 1860, 
+        "author_id": 2, 
+        "author_name": "Barrie, J. M."
+    }, 
+    {
+        "year_of_birth": 1807, 
+        "author_id": 3, 
+        "author_name": "Longfellow, Henry Wadsworth"
+    }, 
+    {
+        "year_of_birth": 1608, 
+        "author_id": 4, 
+        "author_name": "Milton, John"
+    }, 
+    {
+        "year_of_birth": 1818, 
+        "author_id": 5, 
+        "author_name": "Douglass, Frederick"
+    }, 
+    {
+        "year_of_birth": 1873, 
+        "author_id": 6, 
+        "author_name": "Cather, Willa"
+    }, 
+    {
+        "year_of_birth": 1840, 
+        "author_id": 7, 
+        "author_name": "Hardy, Thomas"
+    }, 
+    {
+        "year_of_birth": 1860, 
+        "author_id": 8, 
+        "author_name": "Gilman, Charlotte Perkins"
+    }, 
+    {
+        "year_of_birth": 1804, 
+        "author_id": 9, 
+        "author_name": "Hawthorne, Nathaniel"
+    }, 
+    {
+        "year_of_birth": 1866, 
+        "author_id": 10, 
+        "author_name": "Wells, H. G."
+    }, 
+    {
+        "year_of_birth": 1783, 
+        "author_id": 11, 
+        "author_name": "Irving, Washington"
+    }, 
+    {
+        "year_of_birth": 1850, 
+        "author_id": 12, 
+        "author_name": "Stevenson, Robert Louis"
+    }, 
+    {
+        "year_of_birth": 1874, 
+        "author_id": 13, 
+        "author_name": "Montgomery, L. M."
+    }, 
+    {
+        "year_of_birth": 1812, 
+        "author_id": 14, 
+        "author_name": "Dickens, Charles"
+    }, 
+    {
+        "year_of_birth": 1856, 
+        "author_id": 15, 
+        "author_name": "Baum, L. Frank"
+    }, 
+    {
+        "year_of_birth": 1865, 
+        "author_id": 16, 
+        "author_name": "Orczy, Emmuska Orczy"
+    }, 
+    {
+        "year_of_birth": 1820, 
+        "author_id": 17, 
+        "author_name": "Engels, Friedrich"
+    }, 
+    {
+        "year_of_birth": 1875, 
+        "author_id": 18, 
+        "author_name": "Burroughs, Edgar Rice"
+    }, 
+    {
+        "year_of_birth": 1932, 
+        "author_id": 19, 
+        "author_name": "Coombs, Norman"
+    }, 
+    {
+        "year_of_birth": 1835, 
+        "author_id": 20, 
+        "author_name": "Twain, Mark"
+    }, 
+    {
+        "year_of_birth": 1817, 
+        "author_id": 21, 
+        "author_name": "Thoreau, Henry David"
+    }, 
+    {
+        "year_of_birth": 1871, 
+        "author_id": 22, 
+        "author_name": "Crane, Stephen"
+    }, 
+    {
+        "year_of_birth": 1771, 
+        "author_id": 23, 
+        "author_name": "Scott, Walter"
+    }, 
+    {
+        "year_of_birth": 1828, 
+        "author_id": 24, 
+        "author_name": "Verne, Jules"
+    }, 
+    {
+        "year_of_birth": 1797, 
+        "author_id": 25, 
+        "author_name": "Shelley, Mary Wollstonecraft"
+    }, 
+    {
+        "year_of_birth": 1863, 
+        "author_id": 26, 
+        "author_name": "Hope, Anthony"
+    }
+]

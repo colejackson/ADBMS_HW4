@@ -1,0 +1,302 @@
+[
+    {
+        "book_title": "Alice's Adventures in Wonderland", 
+        "publish_date": "Jun 27, 2008", 
+        "author_id": 0, 
+        "book_id": 11
+    },
+    {
+        "book_title": "Through the Looking-Glass",
+        "publish_date": "Jun 25, 2008",
+        "author_id": 0,
+        "book_id": 12
+    },
+    {
+        "book_title": "The Hunting of the Snark: An Agony in Eight Fits",
+        "publish_date": "Jun 25, 2008",
+        "author_id": 0,
+        "book_id": 13
+    },
+    {
+        "book_title": "Moby Dick",
+        "publish_date": "May 1, 1991",
+        "author_id": 1,
+        "book_id": 15
+    },
+    {
+        "book_title": "Peter Pan",
+        "publish_date": "Jun 25, 2008",
+        "author_id": 2,
+        "book_id": 16
+    },
+    {
+        "book_title": "The Song of Hiawatha",
+        "publish_date": "Jun 1, 2004",
+        "author_id": 3,
+        "book_id": 19
+    },
+    {
+        "book_title": "Paradise Lost",
+        "publish_date": "Oct 1, 1991",
+        "author_id": 4,
+        "book_id": 20
+    },
+    {
+        "book_title": "Narrative of the Life of Frederick Douglass, an American Slave",
+        "publish_date": "Jan 12, 2006",
+        "author_id": 5,
+        "book_id": 23
+    },
+    {
+        "book_title": "O Pioneers!",
+        "publish_date": "Jun 27, 2008",
+        "author_id": 6,
+        "book_id": 24
+    },
+    {
+        "book_title": "Far from the Madding Crowd",
+        "publish_date": "Mar 1, 1992",
+        "author_id": 7,
+        "book_id": 27
+    },
+    {
+        "book_title": "Herland",
+        "publish_date": "Jun 27, 2008",
+        "author_id": 8,
+        "book_id": 32
+    },
+    {
+        "book_title": "The Scarlet Letter",
+        "publish_date": "Jun 1, 1992",
+        "author_id": 9,
+        "book_id": 33
+    },
+    {
+        "book_title": "The Time Machine",
+        "publish_date": "Oct 2, 2004",
+        "author_id": 10,
+        "book_id": 35
+    },
+    {
+        "book_title": "The War of the Worlds",
+        "publish_date": "Oct 1, 2004",
+        "author_id": 10,
+        "book_id": 36
+    },
+    {
+        "book_title": "The Legend of Sleepy Hollow",
+        "publish_date": "Jun 27, 2008",
+        "author_id": 11,
+        "book_id": 41
+    },
+    {
+        "book_title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "publish_date": "Oct 1, 1992",
+        "author_id": 12,
+        "book_id": 42
+    },
+    {
+        "book_title": "The Song of the Lark",
+        "publish_date": "Jun 27, 2008",
+        "author_id": 6,
+        "book_id": 44
+    },
+    {
+        "book_title": "Anne of Green Gables",
+        "publish_date": "Jun 27, 2008",
+        "author_id": 13,
+        "book_id": 45
+    },
+    {
+        "book_title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+        "publish_date": "Aug 11, 2004",
+        "author_id": 14,
+        "book_id": 46
+    },
+    {
+        "book_title": "Anne of Avonlea",
+        "publish_date": "Mar 8, 2006",
+        "author_id": 13,
+        "book_id": 47
+    },
+    {
+        "book_title": "Anne of the Island",
+        "publish_date": "Mar 8, 2006",
+        "author_id": 13,
+        "book_id": 51
+    },
+    {
+        "book_title": "The Marvelous Land of Oz",
+        "publish_date": "Feb 1, 1993",
+        "author_id": 15,
+        "book_id": 54
+    },
+    {
+        "book_title": "The Wonderful Wizard of Oz",
+        "publish_date": "Feb 1, 1993",
+        "author_id": 15,
+        "book_id": 55
+    },
+    {
+        "book_title": "Paradise Regained",
+        "publish_date": "Mar 1, 1993",
+        "author_id": 4,
+        "book_id": 58
+    },
+    {
+        "book_title": "The Scarlet Pimpernel",
+        "publish_date": "Mar 8, 2006",
+        "author_id": 16,
+        "book_id": 60
+    },
+    {
+        "book_title": "The Communist Manifesto",
+        "publish_date": "Jan 25, 2005",
+        "author_id": 17,
+        "book_id": 61
+    },
+    {
+        "book_title": "A Princess of Mars",
+        "publish_date": "Apr 1, 1993",
+        "author_id": 18,
+        "book_id": 62
+    },
+    {
+        "book_title": "The Gods of Mars",
+        "publish_date": "May 1, 1993",
+        "author_id": 18,
+        "book_id": 64
+    },
+    {
+        "book_title": "The Black Experience in America",
+        "publish_date": "May 1, 1993",
+        "author_id": 19,
+        "book_id": 67
+    },
+    {
+        "book_title": "Warlord of Mars",
+        "publish_date": "Jun 1, 1993",
+        "author_id": 18,
+        "book_id": 68
+    },
+    {
+        "book_title": "What Is Man? and Other Essays",
+        "publish_date": "Sep 13, 2004",
+        "author_id": 20,
+        "book_id": 70
+    },
+    {
+        "book_title": "On the Duty of Civil Disobedience",
+        "publish_date": "Jun 1, 1993",
+        "author_id": 21,
+        "book_id": 71
+    },
+    {
+        "book_title": "Thuvia, Maid of Mars",
+        "publish_date": "Jul 1, 1993",
+        "author_id": 18,
+        "book_id": 72
+    },
+    {
+        "book_title": "The Red Badge of Courage: An Episode of the American Civil War",
+        "publish_date": "Jul 1, 1993",
+        "author_id": 22,
+        "book_id": 73
+    },
+    {
+        "book_title": "The Adventures of Tom Sawyer",
+        "publish_date": "Jul 1, 2004",
+        "author_id": 20,
+        "book_id": 74
+    },
+    {
+        "book_title": "Adventures of Huckleberry Finn",
+        "publish_date": "Jun 29, 2004",
+        "author_id": 20,
+        "book_id": 76
+    },
+    {
+        "book_title": "The House of the Seven Gables",
+        "publish_date": "Aug 1, 1993",
+        "author_id": 9,
+        "book_id": 77
+    },
+    {
+        "book_title": "Tarzan of the Apes",
+        "publish_date": "Aug 1, 1993",
+        "author_id": 18,
+        "book_id": 78
+    },
+    {
+        "book_title": "The Return of Tarzan",
+        "publish_date": "Sep 1, 1993",
+        "author_id": 18,
+        "book_id": 81
+    },
+    {
+        "book_title": "Ivanhoe: A Romance",
+        "publish_date": "Jun 25, 2008",
+        "author_id": 23,
+        "book_id": 82
+    },
+    {
+        "book_title": "From the Earth to the Moon; and, Round the Moon",
+        "publish_date": "Sep 1, 1993",
+        "author_id": 24,
+        "book_id": 83
+    },
+    {
+        "book_title": "Frankenstein; Or, The Modern Prometheus",
+        "publish_date": "Oct 1, 1993",
+        "author_id": 25,
+        "book_id": 84
+    },
+    {
+        "book_title": "The Beasts of Tarzan",
+        "publish_date": "Oct 1, 1993",
+        "author_id": 18,
+        "book_id": 85
+    },
+    {
+        "book_title": "A Connecticut Yankee in King Arthur's Court",
+        "publish_date": "Jul 7, 2004",
+        "author_id": 20,
+        "book_id": 86
+    },
+    {
+        "book_title": "The Son of Tarzan",
+        "publish_date": "Nov 1, 1993",
+        "author_id": 18,
+        "book_id": 90
+    },
+    {
+        "book_title": "Tom Sawyer Abroad",
+        "publish_date": "Sep 14, 2004",
+        "author_id": 20,
+        "book_id": 91
+    },
+    {
+        "book_title": "Tarzan and the Jewels of Opar",
+        "publish_date": "Dec 1, 1993",
+        "author_id": 18,
+        "book_id": 92
+    },
+    {
+        "book_title": "Tom Sawyer, Detective",
+        "publish_date": "Sep 14, 2004",
+        "author_id": 20,
+        "book_id": 93
+    },
+    {
+        "book_title": "The Prisoner of Zenda",
+        "publish_date": "Jan 9, 2006",
+        "author_id": 26,
+        "book_id": 95
+    },
+    {
+        "book_title": "The Monster Men",
+        "publish_date": "Jan 1, 1994",
+        "author_id": 18,
+        "book_id": 96
+    }
+]
